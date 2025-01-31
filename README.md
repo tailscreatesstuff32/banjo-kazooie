@@ -1,5 +1,4 @@
-# Banjo-Kazooie (100.0000%)
-
+# Banjo-Kazooie
 <img src="./progress/progress_total.svg">
 
 ### Baserom checksums
